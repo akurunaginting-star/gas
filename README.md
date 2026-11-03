@@ -23,4 +23,4 @@ Hasil static export tersedia di folder `out/`.
 
 ## Mengganti artikel tujuan
 
-Ubah `ARTICLE_URL` di `app/page.tsx`. Saat ini tombol membuka `/artikel/`, halaman artikel contoh.
+Ubah `ARTICLE_URL` di `app/page.tsx`. Saat ini tombol membuka https://audi.pengajartekno.co.id/apk-penghasil-uang-langsung-ke-dana/.
